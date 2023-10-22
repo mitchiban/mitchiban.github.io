@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "3 Must-Read Consulting Books "
+title: "Mastering data extraction from PDF tables - at scale"
 date: 2023-06-01 09:00:00 +1100
 categories: stuff
-tags: coding automation
+tags: coding automation data
 
 
 ---
