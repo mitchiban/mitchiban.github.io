@@ -13,5 +13,5 @@ Of particular interest will be RTFM and STFW.
 
 
 ## Links
-[How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
+[How To Ask Questions The Smart Way](https://www.catb.org/~esr/faqs/smart-questions.html)
 
